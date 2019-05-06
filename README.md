@@ -54,10 +54,31 @@ shengyin : 声音,和audio混合度很高,很多动物怎么叫
 musicinfo : 歌曲信息,这首歌谁唱的,这首歌是什么歌  
 cartoon : 2 数据很少,播放动画片  
 discover : 1 就一条,发现智能设备  
-### 类别分步图  
   
-### 数据去重后一共包含多少条数据  
-### 共多少个类别  
-### 每个类别包含的条数  
-### 对每个没别的解释  
-### 类别分布图  
+### 数据去重后
+### 数据量大大地降下来了:从276万下降到26万，其中一个类别cartoon消失了，归并到了music里面  
+一共261987条数据  
+一共23个类别  
+music : 135177  
+phone : 53014  
+audio : 13410  
+playcontrol : 10457  
+FM : 9869  
+weather : 8095  
+alarm : 8091  
+translation : 7034  
+volume : 6526  
+home : 3736  
+schedule : 2835  
+story : 1778  
+movie : 921  
+news : 334  
+collect : 158  
+variety : 152  
+limitLine : 145  
+serial : 121  
+listenBook : 66  
+IREADER : 38  
+shengyin : 15  
+musicinfo : 14  
+discover : 1   
